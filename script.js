@@ -1,10 +1,12 @@
-// // variables:
+ console.log("Welcome To javaScript Practice");
+ 
+ // variables:
 
 // let a = 10;
 // let b = 10;
 // console.log(c=a+b);
 
-// // Object OR Nonprimitive datatype:
+ // Object OR Nonprimitive datatype:
 
 // const obj = {
 //     "name":"Kartik",
@@ -13,15 +15,15 @@
 // }
 // console.log(obj);
 
-// // primitive datatype"
+// primitive datatype"
 
-// // nn ss bb u (short form to remind)
-// // Number
-// // null
-// // String
-// // Symbol
-// // boolian
-// // BigInt
+// nn ss bb u (short form to remind)
+// Number
+// null
+// String
+// Symbol
+// boolian
+// BigInt
 // // undefined
 // let a =12;
 // let b =null;
@@ -69,4 +71,30 @@
 // console.log(dict['object']);
 // console.log(dict.class);
 
+      // conditions in JavaScript
+     // if else condition in javascript
+
+// let a = prompt("What Is Your Age")
+// // console.log(typeof a);
+// if (a<18){
+//     alert("You are not ready for driving MotorBike")
+// }
+// else{
+//     alert("Yor are ready for driving MotorBike")
+// }
+
+     //else if condition 
+
+// let a = prompt("Age")
+// if(a<16){
+//     alert("you are not eligible for licence")
+// }
+// else if(a<18){
+//     alert("you are eligible for only learning licence")
+// }
+// else{
+//     alert("You are eligible for licence")
+// }
+
+      // switch case in JavaScript 
 
